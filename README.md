@@ -3,6 +3,6 @@
 ## Install
 
 ```sh
-yarn add @postanu/i18n
+pnpm install @postanu/i18n
 ```
 
